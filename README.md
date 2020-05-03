@@ -20,4 +20,21 @@ globle function includes Filter encoding setting, Interceptor controlled login/l
 
 ## Claim Voucher Processing Flow
 
-![index page](https://github.com/KaimingCui/peopleDepartment_ClaimVoucher/blob/master/2.png)  
+![index page](https://github.com/KaimingCui/peopleDepartment_ClaimVoucher/blob/master/1.png)  
+
+## some pictures
+
+### staff and department module
+![index page](https://github.com/KaimingCui/peopleDepartment_ClaimVoucher/blob/master/3.png)  
+![index page](https://github.com/KaimingCui/peopleDepartment_ClaimVoucher/blob/master/4.png)  
+![index page](https://github.com/KaimingCui/peopleDepartment_ClaimVoucher/blob/master/5.png) 
+![index page](https://github.com/KaimingCui/peopleDepartment_ClaimVoucher/blob/master/6.png)  
+
+### Claim voucher management
+![index page](https://github.com/KaimingCui/peopleDepartment_ClaimVoucher/blob/master/7.png)  
+![index page](https://github.com/KaimingCui/peopleDepartment_ClaimVoucher/blob/master/8.png)  
+![index page](https://github.com/KaimingCui/peopleDepartment_ClaimVoucher/blob/master/9.png)  
+![index page](https://github.com/KaimingCui/peopleDepartment_ClaimVoucher/blob/master/10.png)  
+![index page](https://github.com/KaimingCui/peopleDepartment_ClaimVoucher/blob/master/11.png)  
+
+
