@@ -19,3 +19,5 @@ globle function includes Filter encoding setting, Interceptor controlled login/l
 
 
 ## Claim Voucher Processing Flow
+
+![index page](https://github.com/KaimingCui/peopleDepartment_ClaimVoucher/blob/master/2.png)  
